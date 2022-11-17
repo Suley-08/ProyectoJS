@@ -1,3 +1,4 @@
+//Karen Rivera
 //EJERCICIO 1
 /*
 let hombres = +prompt ("Ingrese el número de hombres")
